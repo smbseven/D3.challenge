@@ -25,12 +25,6 @@ The D3 Challenge requires to create a plot between two data variables. In this c
  <li>D3_data_journalism / assets / css - d3style.css and style.cs - Style for web page and D3 output. </li>
  <li>D3_data_journalism / assets / data - data.csv - Dataset. </li>
  <li>D3_data_journalism / assets / js - .eslintrc.json and app.js - Logic behind D3. </li>
-
-
-
- <li>DB Documentadion.pdf - Database Schema</li>  
- <li>DB design.png - Database Schema diagram </li> 
- <li>ExtractandExploringData3.ipynb - Full project code with comments </li>
  </ul>
 
  
